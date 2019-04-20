@@ -4,5 +4,7 @@
     "jest": true
   },
   "extends": "airbnb-base",
-  "rules": {}
+  "rules": {
+    "arrow-body-style": "off"
+  }
 }
